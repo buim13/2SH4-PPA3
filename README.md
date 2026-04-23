@@ -1,4 +1,4 @@
-# Project Preparation Activity 3 – Create a Scavenger Hunt “Guess the Word” Gam
+# Project Preparation Activity 3 – Create a Scavenger Hunt “Guess the Word” Game
 
 The basic game mechanism:
 - The game has a built-in Goal String containing 15-25 ASCII characters, hidden away from the player.
